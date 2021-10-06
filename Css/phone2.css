@@ -1,0 +1,12 @@
+.container h1{
+    font-size: 45px;
+    margin-bottom: 33px;
+    padding: 10px;
+    text-decoration: underline rgba(0, 0, 255, 0.747) ;;
+}
+
+.box input{
+    font-size: 15px;
+    width: 100%;
+    
+}
